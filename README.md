@@ -52,11 +52,11 @@
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
+  <a href="https://wa.me/94710167783">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Zero-2-Queen%20Md%20Bot-purple&style=plastic">
 
   </a>
 </p>
 
 
-[url=https://ibb.co/PYRRMSK][img]https://i.ibb.co/LPMMrGm/20231224-105235.jpg[/img][/url]
+
