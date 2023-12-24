@@ -9,8 +9,8 @@
 </p>
 # 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
+  <a href="httsp://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V">
+    <img src="https://img.shields.io/docker/pulls/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?style=flat-square&label=Docker+Pulls">
   </a>
   <a href="https://github.com/BlackAmda/QueenAmdi">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
