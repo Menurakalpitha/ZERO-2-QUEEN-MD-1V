@@ -60,8 +60,6 @@
 
 #
 
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 ##
 ZERO-2-QUEEN-MD-1V Diploy Method
 
