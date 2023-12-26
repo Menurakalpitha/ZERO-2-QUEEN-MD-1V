@@ -34,19 +34,19 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
+  <a href="httsp://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V">
+    <img src="https://img.shields.io/github/repo-size/charukajalaniduofc/ZERO-2-QUEEN-MD-1V ?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
+  <a href="httsp://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V">
+    <img src="https://img.shields.io/github/license/Charukajalaniduofc/ZERO-2-QUEEN-MD-1V?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
+  <a href="httsp://github.com/Charukajalaniduofc/ZERO-2-QUEEN-MD-1V">
+    <img src="https://img.shields.io/github/languages/top/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V">
     <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
   </a>
