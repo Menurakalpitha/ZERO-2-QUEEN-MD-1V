@@ -69,12 +69,12 @@
 #### Deploy To Heroku 
 
 
-<a href="https://inrl-web-fkns.onrender.com/deploy/heroku"><img title="INRL-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://inrl-web-fkns.onrender.com/deploy/heroku"><img title="ZERO-2-QUEEN-MD-1V Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 #### Deploy To Railway
 
-<a href="https://inrl-web-fkns.onrender.com/info/deploy/railway"><img title="INRL-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href="https://inrl-web-fkns.onrender.com/info/deploy/railway"><img title="ZERO-2-QUEEN-MD-1V Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 
 ---
@@ -85,7 +85,7 @@
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/inrl-official/INRL-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com/github/Charukajalaniduofc/ZERO-2-QUEEN-MD-1V"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 
 #
