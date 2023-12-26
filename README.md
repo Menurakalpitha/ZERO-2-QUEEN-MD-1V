@@ -91,6 +91,9 @@ ZERO-2-QUEEN-MD-1V Diploy Method
 
 
 
+### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/charukajalanidu)
+<b>Version -> 0.0.1</b
+
 
 
 #
