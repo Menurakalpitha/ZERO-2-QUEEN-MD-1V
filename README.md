@@ -60,7 +60,9 @@
 
 
 
-#
+# <details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+
 * ZERO-2-QUEEN-MD-1V Diploy Method
 
 
@@ -86,8 +88,7 @@
 #### Deploy To Replit
 
 <a href="https://replit.com/github/Charukajalaniduofc/ZERO-2-QUEEN-MD-1V"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
-
-
+</details>
 #
 <!---
 alonesaja1/alonesaja1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
