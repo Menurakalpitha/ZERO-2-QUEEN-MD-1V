@@ -58,6 +58,29 @@
   </a>
 </p>
 
+#
+
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+### INRL-MD Deploy Methods
+
+-------
+
+#### Deploy To Heroku 
+#### Deploy To Railway
+
+<a href="https://inrl-web-fkns.onrender.com/info/deploy/railway"><img title="INRL-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+
+
+---
+#### Deploy To Koyeb
+
+<a href="https://inrl-web-fkns.onrender.com/info/deploy/koyeb"><img title="INRL-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+
+---
+#### Deploy To Replit
+
+<a href="https://replit.com/github/inrl-official/INRL-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 
 #  [`support group`](https://chat.whatsapp.com/CqiTLzYF57F0KxkpBTzVgy)
