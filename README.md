@@ -7,7 +7,26 @@
 <p align="center">
 <img src="https://i.ibb.co/LPMMrGm/20231224-105235.jpg" width="300" height="300"/>
 </p>
-# 
+
+
+align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
+
+</p>
+<p>
+<p align="center">
+<a href="https://github.com/charukajalanidu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/charukajalanidu/Queen-Ben-Md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charukajalanidu/Queen-Ben-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/charukajalanidu /Queen-Ben-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charukajalanidu/Queen-Ben-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/charukajalanidu /Queen-Ben-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charukajalanidu/Queen-Ben-MD?label=Watchers&color=red&style=flat-square"></a>
+  
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mr charuka-red.svg?style=for-the-badge&logo=github"></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF000000&random=false&width=445&lines=%F0%9F%92%97Welcome+to+Queen+ben+;whatsap+bot%F0%9F%92%97;create+by+mr+charuka" alt="Typing SVG" /></a>
+
+
 <p align="center">
   <a href="httsp://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V">
     <img src="https://img.shields.io/docker/pulls/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?style=flat-square&label=Docker+Pulls">
