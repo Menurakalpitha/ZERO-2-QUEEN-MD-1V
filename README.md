@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/charukajalanidu)
+### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/charukajalaniduofc)
 <b>Version -> 0.0.1</b
 
 
