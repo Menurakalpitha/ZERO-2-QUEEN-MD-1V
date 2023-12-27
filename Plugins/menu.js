@@ -12,7 +12,7 @@ const {
 inrl({
     pattern: 'list',
     desc: lang.LIST.DESC,
-    react: "💯",
+    react: "📄",
     type: 'info'
 }, async (message) => {
     let count =1, list ="";
@@ -23,7 +23,7 @@ inrl({
 inrl({
     pattern: "menu",
     desc: lang.MENU.DESC,
-    react: "📰",
+    react: "📃",
     type: 'whatsapp'
 }, async (message, match) => {
     return await send_menu(message, await getVar('TIME_ZONE',message.user.number));
@@ -32,7 +32,7 @@ inrl({
 inrl({
     pattern: "alive",
     desc: lang.ALIVE.DESC,
-    react: "🥰",
+    react: "👋",
     type: 'info',
     usage:lang.ALIVE.HELP
 }, async (message, match) => {
