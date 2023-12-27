@@ -14,7 +14,7 @@
 </p>
 <p>
 <p align="center">
-<a href="https://github.com/charukajalaniduofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?color=white&style=flat-square"></a>
 <a href="https://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?color=yellow&style=flat-square"></a>
 <a href="https://github.com/charukajalaniduofc/ZERO-2-QUEEN-MD-1V/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charukajalaniduofc/ZERO-2-QUEEN-MD-1V?label=Watchers&color=red&style=flat-square"></a>
